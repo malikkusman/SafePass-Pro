@@ -2,9 +2,6 @@
 
 Thank you for considering contributing to SafePass Pro! Contributions help make this project better and more robust. Please take a moment to review this document for guidelines on how to contribute.
 
-## Code of Conduct
-
-Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## How to Contribute
 
