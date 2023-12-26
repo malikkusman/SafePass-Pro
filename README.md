@@ -10,8 +10,7 @@ SafePass Pro is a secure password management mobile application built with Flutt
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Screenshots](#screenshots)
-5. [Contributing](#contributing)
+4. [Contributing](#contributing)
 
 
 ## Features
