@@ -47,7 +47,7 @@ To install SafePass Pro, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SafePassPro.git
+   git clone https://github.com/malikkusman/SafePass-Pro.git
    ```
 
 2. Navigate to the project directory:
