@@ -42,7 +42,7 @@ dependencies:
   sqflite: ^2.3.0
   cached_network_image: ^3.3.0
   favicon: ^1.1.1
-  intl: ^0.18.1
+  intl: ^0.19.0
   path: ^1.8.3
   flutter_svg: ^2.0.9
   flutter_native_splash: ^2.3.6
