@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
-import '../provider/generatedpassswordprovideer.dart';
+import '../provider/generatedpassswordprovider.dart';
 import '../widgets/custombutton.dart';
 
 class GeneratorPage extends StatelessWidget {

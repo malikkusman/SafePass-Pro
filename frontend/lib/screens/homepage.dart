@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
         screens: const [
           // VaultPage(),
           GeneratorPage(),
-          // SettingsPage(),
+          SettingsPage(),
         ],
         items: _navBarsItems(),
         navBarStyle: NavBarStyle.style6,
